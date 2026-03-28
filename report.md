@@ -1,4 +1,4 @@
-# Technical Report: Healthcare Consultation Decision Support System
+# Report: Healthcare Consultation Decision Support System
 
 ## 1. Executive Summary
 This project delivers a state-of-the-art machine learning solution for patient triage, predicting between **Teleconsultation** and **In-Person** care. By leveraging advanced techniques like **Scikit-Learn Pipelines**, **Class Weighting**, and **ROC/AUC analysis**, we have built a stable, production-ready model that addresses the complexities of imbalanced healthcare data.
