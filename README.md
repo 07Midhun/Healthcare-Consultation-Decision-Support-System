@@ -51,5 +51,5 @@ The **Random Forest Classifier** was selected as the final model due to its supe
     Open the directory in your terminal and run `jupyter notebook teleconsultation_predictor.ipynb`.
 3.  **Execute**: Run all cells to generate the analysis, model outputs, and visualizations.
 
-### **Conclusion**
+## **Conclusion**
 By achieving **96.8% accuracy**, this project demonstrates how Machine Learning can effectively digitize clinical protocols. It provides a scalable solution for hospitals to manage patient volume while ensuring that those in critical need receive immediate in-person attention.
