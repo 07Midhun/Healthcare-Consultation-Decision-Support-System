@@ -1,4 +1,4 @@
-# Ultimate Model Outputs & Visual Summary
+# Model Outputs & Visual Summary
 
 ## 1. Professional Performance Dashboard
 The model achieved high predictive accuracy using **Class-Weighted Random Forest Classifiers**, specifically designed to handle the minority "Teleconsultation" class.
