@@ -10,7 +10,7 @@ The model achieved high predictive accuracy using **Class-Weighted Random Forest
 | **Class Balancing** | `class_weight='balanced'` |
 
 
-## 2. Advanced Evaluation: ROC Curve
+## 2. Evaluation: ROC Curve
 The ROC Curve demonstrates the model's ability to maintain high sensitivity (avoiding clinical risks) while providing high specificity (reducing hospital overcrowding).
 ![ROC Curve](viz_roc_curve.png)
 
