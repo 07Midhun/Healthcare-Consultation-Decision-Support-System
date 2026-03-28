@@ -13,14 +13,14 @@ Healthcare facilities often face administrative bottlenecks in determining the a
 I followed a structured pipeline to ensure the model is both technically sound and clinically relevant:
 
 1.  **Data Loading & Cleaning**: 
-    Processed the raw healthcare data, handled missing values, and performed encoding for categorical variables.
+    - Processed the raw healthcare data, handled missing values, and performed encoding for categorical variables.
 2.  **Engineered Triage Logic**: 
-    Developed a clinical rule-based target variable to simulate real-world medical protocols, incorporating stochastic noise to ensure the model learns complex patterns rather than simple hard-coded rules.
+    - Developed a clinical rule-based target variable to simulate real-world medical protocols, incorporating stochastic noise to ensure the model learns complex patterns rather than simple hard-coded rules.
 3.  **Exploratory Data Analysis (EDA)**: 
-    Created **9 detailed visualizations** to analyze correlations between patient demographics, medical conditions, and consultation needs.
+    - Created **9 detailed visualizations** to analyze correlations between patient demographics, medical conditions, and consultation needs.
 4.  **Model Training & Selection**: 
-    Evaluated three distinct algorithms: **Logistic Regression**, **Decision Trees**, and **Random Forest**.
-    Implemented an 80/20 stratified split and **5-Fold Cross-Validation** to ensure robust performance.
+    - Evaluated three distinct algorithms: **Logistic Regression**, **Decision Trees**, and **Random Forest**.
+    - Implemented an 80/20 stratified split and **5-Fold Cross-Validation** to ensure robust performance.
 
 
 ## Key Insights
