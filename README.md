@@ -1,4 +1,4 @@
-# Healthcare Consultation Mode Predictor
+# Healthcare Consultation Decision Support System
   
 
 ## Project Overview
