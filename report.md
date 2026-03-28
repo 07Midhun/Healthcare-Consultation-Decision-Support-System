@@ -16,7 +16,7 @@ Healthcare datasets are naturally imbalanced (majority in-person). We addressed 
 The model is built using **Scikit-Learn Pipelines**, encapsulating all preprocessing and modeling steps into a single object. This follows industry best practices for reproducible and scalable code, making the model ready for deployment as a REST API.
 
 
-## 3. Evaluation & Metrics (Top 1% Standards)
+## 3. Evaluation & Metrics
 
 Instead of relying solely on accuracy, we evaluated the model using:
 - **Precision, Recall, and F1-Score**: To ensure high performance on both majority and minority classes.
@@ -32,7 +32,5 @@ This system is designed to provide immediate value to modern hospital environmen
 
 
 
-## 5. Mandatory Disclaimer
+## Disclaimer
 *The target variable was generated using rule-based logic; therefore, model performance reflects learning structured patterns rather than real-world uncertainty. However, the introduction of 10% randomness to borderline cases ensures the model remains robust against clinical variability.*
-
-
